@@ -3,10 +3,12 @@
     "model": "bus",
     "nama": "xcc",
     "img": [
-      "xccc"
+      "xccc",
+      "ccv"
     ],
     "livery": [
-      "ccc"
+      "ccc",
+      "cccc"
     ],
     "download": "cccc"
   }
