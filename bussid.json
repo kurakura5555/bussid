@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "id": "entry_1765687051650",
+    "model": "bus",
+    "nama": "Jetbus 3+ SHD Hino RK8",
+    "gambar": "https://raw.githubusercontent.com/kurakura5555/bussid/main/IMG_20251214_123512.jpg",
+    "timestamp": 1765687051650,
+    "download": "https://github.com/kurakura5555/bussid/releases/download/bussid/1294_Jetbus_3+_SHD_Hino_RK8.bussidmod",
+    "livery": [
+      "https://raw.githubusercontent.com/kurakura5555/bussid/refs/heads/main/Winspector.png"
+    ]
+  }
+]
