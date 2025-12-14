@@ -1,5 +1,16 @@
 [
   {
+    "id": "entry_1765687783321",
+    "model": "truck",
+    "nama": "Ragasa Herex",
+    "gambar": "https://raw.githubusercontent.com/kurakura5555/bussid/main/IMG_20251214_124638.jpg",
+    "timestamp": 1765687783321,
+    "download": "https://github.com/kurakura5555/bussid/releases/download/bussid/1367_Ragasa_Herex.bussidmod",
+    "livery": [
+      "https://raw.githubusercontent.com/kurakura5555/bussid/main/Kuning.png"
+    ]
+  },
+  {
     "id": "entry_1765687520674",
     "model": "bus",
     "nama": "Jetbus 3+ SHD Voyager Hino RK8",
