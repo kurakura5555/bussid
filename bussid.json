@@ -4,11 +4,13 @@
     "model": "mobil",
     "nama": "bus testing",
     "gambar": "https://modbussid.io/wp-content/uploads/2025/06/Jetbus-3-DC.jpg",
-    "timestamp": 1765683591961,
+    "timestamp": 1765683641750,
     "uploaded": "Baru saja",
     "download": "https://modbussid.io/wp-content/uploads/2025/06/Jetbus-3-DC.jpg",
     "img1": "https://raw.githubusercontent.com/kurakura5555/bussid/main/Winspector.png",
-    "livery1": "https://raw.githubusercontent.com/kurakura5555/bussid/main/Winspector.png"
+    "livery1": "https://raw.githubusercontent.com/kurakura5555/bussid/main/Winspector.png",
+    "img2": "https://raw.githubusercontent.com/kurakura5555/bussid/main/MSM.png",
+    "livery2": "https://raw.githubusercontent.com/kurakura5555/bussid/main/MSM.png"
   },
   {
     "id": "entry_1765606203217",
