@@ -1,5 +1,18 @@
 [
   {
+    "id": "entry_1765687520674",
+    "model": "bus",
+    "nama": "Jetbus 3+ SHD Voyager Hino RK8",
+    "gambar": "https://raw.githubusercontent.com/kurakura5555/bussid/main/IMG_20251214_124311.jpg",
+    "timestamp": 1765687520674,
+    "download": "https://github.com/kurakura5555/bussid/releases/download/bussid/1729_Jetbus_3+_SHD_Voyager_Hino_RK8.bussidmod",
+    "livery": [
+      "https://raw.githubusercontent.com/kurakura5555/bussid/refs/heads/main/MSM.png",
+      "https://raw.githubusercontent.com/kurakura5555/bussid/main/QQ_Trans_Biru.png",
+      "https://raw.githubusercontent.com/kurakura5555/bussid/main/QQ_Trans_Hijau.png"
+    ]
+  },
+  {
     "id": "entry_1765687051650",
     "model": "bus",
     "nama": "Jetbus 3+ SHD Hino RK8",
