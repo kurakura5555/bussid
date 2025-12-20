@@ -4,10 +4,17 @@
     "model": "bus",
     "nama": "Jetbus 5 SDD Scania K450CB",
     "gambar": "https://raw.githubusercontent.com/kurakura5555/bussid/main/IMG_20251220_163725.jpg",
-    "timestamp": 1766220501535,
+    "timestamp": 1766220786955,
     "download": "https://github.com/KANEKIML/Bussid/releases/download/besar/1615_Jetbus_5_SDD_Scania_K450CB.bussidmod",
     "livery": [
-      "https://raw.githubusercontent.com/kurakura5555/bussid/main/Kencana.png"
+      "https://raw.githubusercontent.com/kurakura5555/bussid/main/Kencana.png",
+      "https://raw.githubusercontent.com/kurakura5555/bussid/main/Juragan_99.png",
+      "https://raw.githubusercontent.com/kurakura5555/bussid/main/Harapan_Jaya.png",
+      "https://raw.githubusercontent.com/kurakura5555/bussid/main/Gunung_Harta.png",
+      "https://raw.githubusercontent.com/kurakura5555/bussid/main/Garuda_Mas.png",
+      "https://raw.githubusercontent.com/kurakura5555/bussid/main/Agra_Mas.png",
+      "https://raw.githubusercontent.com/kurakura5555/bussid/main/27_Trans.png",
+      "https://raw.githubusercontent.com/kurakura5555/bussid/main/168_Trans.png"
     ]
   },
   {
