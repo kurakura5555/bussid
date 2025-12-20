@@ -1,5 +1,16 @@
 [
   {
+    "id": "entry_1766220501535",
+    "model": "bus",
+    "nama": "Jetbus 5 SDD Scania K450CB",
+    "gambar": "https://raw.githubusercontent.com/kurakura5555/bussid/main/IMG_20251220_163725.jpg",
+    "timestamp": 1766220501535,
+    "download": "https://github.com/KANEKIML/Bussid/releases/download/besar/1615_Jetbus_5_SDD_Scania_K450CB.bussidmod",
+    "livery": [
+      "https://raw.githubusercontent.com/kurakura5555/bussid/main/Kencana.png"
+    ]
+  },
+  {
     "id": "entry_1765687783321",
     "model": "truck",
     "nama": "Ragasa Herex",
